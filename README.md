@@ -4,7 +4,7 @@
 🚀 Co-founder of [Ventyra](https://ventyracyber.com) – Cybersecurity training for SMBs  
 🛡️ Member of KryptoSphere – Blockchain & cybersecurity club  
 💻 Passionate about cybersecurity, blockchain & tech entrepreneurship  
-🏆 Hackathon enthusiast — Kiln, ETHLisbon, Encode Club & more
+🏆 Hackathon enthusiast 
 
 ---
 
@@ -13,7 +13,7 @@
 - 👀 Interested in blockchain, cybersecurity and building useful tech.
 - 🧠 Currently building cybersecurity training programs for non-tech SMEs.
 - 🎤 Love pitching projects and participating in hackathons.
-- 🌍 Based between Angers 🇫🇷 and Sevilla 🇪🇸.
+- 🌍 Based between Angers and Paris 🇫🇷.
 
 ---
 
@@ -31,18 +31,26 @@
 
 ### Blockchain
 
-`Ethereum` `Base` `Arbitrum` `SUI` `Olas SDK` `Kiln Widget`
+`Ethereum` `Base` `Arbitrum` `SUI`
 
 ---
 
 ## 🏆 Hackathons & Competitions
 
-| Event                        | Date         | Project/Result                                |
-|-----------------------------|--------------|-----------------------------------------------|
-| Encode x Olas Hackathon     | Mar 2025     | Agent Swarms with Mech SDK                    |
-| ETHLisbon                   | May 2025     | Participated                                  |
-| Base Vibe Coding Hackathon | May 2025     | Personal finance dashboard on-chain           |
-| Kiln Hackathon              | Feb 2025     | 🥇 1st place – “Staking Dashboard for Dummies”|
+| Event                                             | Date         | Project / Result                                                                                          |
+|--------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------|
+| HEC x Tezos                                       | Sep 2023     | 🥈 2nd place – **TAG**, a networking app like LinkedIn based on your on-chain activity                    |
+| EPFL x Sui                                        | Oct 2023     | **SuiQuest**, a simple and educational platform to learn Move language                                    |
+| Hackin'Dau – Dauphine PSL x Kiln x Kryptosphère  | Sep 2024     | 🥈 2nd place – **Clear Cycle**, immutable waste traceability system on blockchain                         |
+| EPFL x Sui 2                                      | Oct 2024     | **SuiPaper**, a paywall-free decentralized newspaper powered by SUI token staking                         |
+| ETHGlobal Bangkok                                 | Nov 2024     | 🥈 2nd place (Ledger Track) – **Tuktuk Delivery**, full blockchain-based food delivery tracking app        |
+| Kiln Hackathon                                    | Feb 2025     | 🥇 1st place – **BetterStake**, a dashboard to manage all your staking positions using Kiln widget        |
+| LLM to Agentic AI – ESSEC x Kryptosphère x Utopia| Mar 2025     | **SafeQR**, an app to assess QR code cybersecurity risks before scanning                                  |
+| Paris Blockchain Week Hackathon                   | Mar 2025     | **Quorion**, a platform to generate and sell anonymized health datasets via blockchain                    |
+| Encode Club AI Hackathon – London                 | Mar 2025     | 🥈 2nd place – **Tonk**: vibe-coding your own private “mini internet” of ambient social apps              |
+| ETHLisbon                                         | May 2025     | **Agent Swarms with Mech SDK**, experimental AI x Web3 agent architecture                                |
+| Base Vibe Coding Hackathon                        | May 2025     | **Personal Finance Dashboard**, on-chain asset tracker with wallet sync and manual off-chain entries      |
+
 
 ---
 
