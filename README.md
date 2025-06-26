@@ -49,7 +49,7 @@
 | Paris Blockchain Week Hackathon                   | Mar 2025     | **Quorion**, a platform to generate and sell anonymized health datasets via blockchain                    |
 | Encode Club AI Hackathon – London                 | Mar 2025     | 🥈 2nd place – **Tonk**: vibe-coding your own private “mini internet” of ambient social apps              |
 | ETHLisbon                                         | May 2025     | **Agent Swarms with Mech SDK**, experimental AI x Web3 agent architecture                                |
-| Base Vibe Coding Hackathon                        | May 2025     | **Personal Finance Dashboard**, on-chain asset tracker with wallet sync and manual off-chain entries      |
+| Base Vibe Coding Hackathon                        | May 2025     | 🥇 1st place – **Personal Finance Dashboard**, on-chain asset tracker with wallet sync and manual off-chain entries      |
 
 
 ---
