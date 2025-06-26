@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Valentin Bonnet
 
 🎓 Engineering student at Polytech Angers  
-🚀 Co-founder of [Ventyra](https://ventyracyber.com) – Cybersecurity training for SMBs  
+🚀 Co-founder of [Ventyra](https://ventyra.fr) – Cybersecurity training for SMBs  
 🛡️ Member of KryptoSphere – Blockchain & cybersecurity club  
 💻 Passionate about cybersecurity, blockchain & tech entrepreneurship  
 🏆 Hackathon enthusiast 
