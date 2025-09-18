@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Valentin Bonnet
 
-🎓 Engineering student at Polytech Angers  
+🎓 Graduate in Automated Systems & Computer Engineering (Cybersecurity option) – Polytech Angers  
 🚀 Co-founder of [Prediction Live](https://prediction-live.vercel.app/) – Real-time betting on esports live streams  
-🛡️ Co-founder of [Ventyra](https://ventyra.fr) – Cybersecurity training for SMBs
+🛡️ Co-founder of [Ventyra](https://ventyra.fr) – Cybersecurity training for SMBs  
 💼 Member of KryptoSphere – Blockchain & cybersecurity club  
 💻 Passionate about cybersecurity, blockchain & tech entrepreneurship  
-🏆 Hackathon enthusiast 
+🏆 Hackathon enthusiast
 
 ---
 
