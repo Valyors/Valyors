@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Valentin Bonnet
 
 🎓 Engineering student at Polytech Angers  
-🚀 Co-founder of [Ventyra](https://ventyra.fr) – Cybersecurity training for SMBs  
+🚀 Co-founder of [Prediction Live](https://ventyra.fr) – Cybersecurity training for SMBs
+🚀 Co-founder of [Ventyra]([https://ventyra.fr](https://prediction-live.vercel.app/)) – Real-time betting on esports live streams  
 🛡️ Member of KryptoSphere – Blockchain & cybersecurity club  
 💻 Passionate about cybersecurity, blockchain & tech entrepreneurship  
 🏆 Hackathon enthusiast 
@@ -50,6 +51,7 @@
 | Encode Club AI Hackathon – London                 | Mar 2025     | 🥈 2nd place – **Tonk**: vibe-coding your own private “mini internet” of ambient social apps              |
 | ETHLisbon                                         | May 2025     | **Agent Swarms with Mech SDK**, experimental AI x Web3 agent architecture                                |
 | Base Vibe Coding Hackathon                        | May 2025     | 🥇 1st place – **Personal Finance Dashboard**, on-chain asset tracker with wallet sync and manual off-chain entries      |
+| Hacking Paris Chiliz | Juil. 2025 | 🥇 1st place – **Prediction Live**, real-time betting on esports live streams |                              |
 
 
 ---
